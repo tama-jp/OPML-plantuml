@@ -1,0 +1,14 @@
+<opml version="2.0">
+  <head>
+    <title>Converted Mindmap</title>
+  </head>
+  <body>
+    <outline text="メイン">
+      <outline text="サブ">
+        <outline text="サブ１"></outline>
+        <outline text="サブ2"></outline>
+        <outline text="サブ3"></outline>
+      </outline>
+    </outline>
+  </body>
+</opml>
